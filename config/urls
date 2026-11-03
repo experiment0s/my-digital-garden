@@ -1,5 +1,5 @@
 "query:Dev News:tags # \"dev\" and age < 2 and unread = \"yes\""
-"query:Tech News:tags # \"tech\" and age < 2 and unread = \"yes\""
+"query:Reddit:tags # \"reddit\" and age < 2 and unread = \"yes\""
 "query:World News:tags # \"news\" and age < 1 and unread = \"yes\""
 "query:Podcasts:tags # \"podcast\" and unread = \"yes\""
 "query:Youtube:tags # \"yt\""
@@ -7,3 +7,4 @@
 https://feeds.megaphone.fm/GLOBO1083791815 ! podcast
 https://iclnoticias.com.br/feed/ ! news
 https://www.youtube.com/feeds/videos.xml?channel_id=UCf0JJ7Qe8gyS94d-qU6jYpg ! yt
+https://www.reddit.com/user/experiment0s/m/ctpsd/new.rss ! reddit
